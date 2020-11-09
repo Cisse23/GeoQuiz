@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 465fb4a1dc7bfa943a94cb65d850282d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3406989877094760403
+    second: IcelandFLAG
+  - first:
+      213: -6537666180452970500
+    second: VaticanCityFLAG
+  - first:
+      213: 7965378633890820387
+    second: NorwayFLAG
+  - first:
+      213: -6441620700068143843
+    second: SwedenFLAG
+  - first:
+      213: -6097333702282989776
+    second: FinlandFLAG
+  - first:
+      213: -3396681870012359508
+    second: RussiaFLAG
+  - first:
+      213: 4250582908670411629
+    second: DenmarkFLAG
+  - first:
+      213: 4693685857642916518
+    second: SanMarinoFLAG
+  - first:
+      213: 1657972251862256288
+    second: FLAGS_euromap_separated_8
+  - first:
+      213: -1002156775847804744
+    second: FLAGS_euromap_separated_9
+  - first:
+      213: -4524546868698501646
+    second: FLAGS_euromap_separated_10
+  - first:
+      213: -553765331728837626
+    second: FLAGS_euromap_separated_11
+  - first:
+      213: 2035342307115931327
+    second: EstoniaFLAG
+  - first:
+      213: 3561323744971610648
+    second: FLAGS_euromap_separated_13
+  - first:
+      213: 7954635798179665636
+    second: IrelandFLAG
+  - first:
+      213: 9119419868184734097
+    second: LatviaFLAG
+  - first:
+      213: -206952465141426395
+    second: FLAGS_euromap_separated_16
+  - first:
+      213: 3340688258389590449
+    second: FLAGS_euromap_separated_17
+  - first:
+      213: -5541099259021553459
+    second: NetherlandsFLAG
+  - first:
+      213: 809981207636147641
+    second: GermanyFLAG
+  - first:
+      213: -8199661875757512565
+    second: BelarusFLAG
+  - first:
+      213: -6217739794317132463
+    second: LithuaniaFLAG
+  - first:
+      213: 2404584699430562398
+    second: FLAGS_euromap_separated_22
+  - first:
+      213: 8899956352804808390
+    second: LuxembourgFLAG
+  - first:
+      213: -6408717017334679006
+    second: FLAGS_euromap_separated_24
+  - first:
+      213: 3780715000592367113
+    second: BelgiumFLAG
+  - first:
+      213: -7680882428644367809
+    second: UKFLAG
+  - first:
+      213: 7152064159079645163
+    second: FLAGS_euromap_separated_27
+  - first:
+      213: 8513879144652672799
+    second: FLAGS_euromap_separated_28
+  - first:
+      213: 4973430483695725154
+    second: UkraineFLAG
+  - first:
+      213: 5358396514803569050
+    second: SloveniaFLAG
+  - first:
+      213: -2551869745300518881
+    second: FLAGS_euromap_separated_31
+  - first:
+      213: 8549005703124789574
+    second: FLAGS_euromap_separated_32
+  - first:
+      213: -7983130602786399514
+    second: PolandFLAG
+  - first:
+      213: 6990916766400058016
+    second: FranceFLAG
+  - first:
+      213: 5631824453312108223
+    second: SwitzerlandFLAG
+  - first:
+      213: -8107898110167612665
+    second: LiechtensteinFLAG
+  - first:
+      213: -711593491666989236
+    second: AustriaFLAG
+  - first:
+      213: 7246029044049767412
+    second: HungaryFLAG
+  - first:
+      213: -5263734172911738519
+    second: RomaniaFLAG
+  - first:
+      213: -9202661097983057440
+    second: MoldovaFLAG
+  - first:
+      213: -3952403196202836157
+    second: CzechRepublicFLAG
+  - first:
+      213: -89947283518592880
+    second: SlovakiaFLAG
+  - first:
+      213: 6261891833311058336
+    second: SerbiaFLAG
+  - first:
+      213: -2232986045744794054
+    second: BulgariaFLAG
+  - first:
+      213: 3469525437164020962
+    second: FLAGS_euromap_separated_45
+  - first:
+      213: -3415639587346375436
+    second: KosovoFLAG
+  - first:
+      213: 2812141535339575334
+    second: NorthMacedoniaFLAG
+  - first:
+      213: 8669492881428794370
+    second: AndorraFLAG
+  - first:
+      213: 7418688913733533987
+    second: ItalyFLAG
+  - first:
+      213: -6246282237591723506
+    second: CroatiaFLAG
+  - first:
+      213: -7548196867125716013
+    second: BosniaAndHerzegovinaFLAG
+  - first:
+      213: -6059792843346459274
+    second: MontenegroFLAG
+  - first:
+      213: -526039292037444688
+    second: AlbaniaFLAG
+  - first:
+      213: -8081779690775328843
+    second: SpainFLAG
+  - first:
+      213: -4168631799375210185
+    second: FLAGS_euromap_separated_55
+  - first:
+      213: -7418682071092410949
+    second: FLAGS_euromap_separated_56
+  - first:
+      213: -7957120718545156002
+    second: PortugalFLAG
+  - first:
+      213: 8300804749729767054
+    second: FLAGS_euromap_separated_58
+  - first:
+      213: 6534459762279134489
+    second: GreeceFLAG
+  - first:
+      213: 8859774001906566075
+    second: FLAGS_euromap_separated_60
+  - first:
+      213: -7571703853139461844
+    second: TurkeyFLAG
+  - first:
+      213: 275780522916257008
+    second: FLAGS_euromap_separated_62
+  - first:
+      213: -58405339701672184
+    second: FLAGS_euromap_separated_63
+  - first:
+      213: 3219639025491582842
+    second: FLAGS_euromap_separated_64
+  - first:
+      213: -5403288377045972092
+    second: FLAGS_euromap_separated_65
+  - first:
+      213: -6477367650953508364
+    second: CyprusFLAG
+  - first:
+      213: -9000140707505510719
+    second: FLAGS_euromap_separated_67
+  - first:
+      213: 6896861749097065585
+    second: FLAGS_euromap_separated_68
+  - first:
+      213: -2341884613140953278
+    second: FLAGS_euromap_separated_69
+  - first:
+      213: -6213112465953317922
+    second: MaltaFLAG
+  - first:
+      213: -8334497143713762816
+    second: FLAGS_euromap_separated_71
+  - first:
+      213: -7326700194899922061
+    second: FLAGS_euromap_separated_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IcelandFLAG
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1808
+        width: 121
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d204a6ef1c0f7b0d0800000000000000
+      internalID: -3406989877094760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorwayFLAG
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1598
+        width: 264
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217c864aa5ba8e60800000000000000
+      internalID: 7965378633890820387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwedenFLAG
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1599
+        width: 137
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d92aa3a14ca96a0800000000000000
+      internalID: -6441620700068143843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinlandFLAG
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1680
+        width: 169
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa7668d4be16ba0800000000000000
+      internalID: -6097333702282989776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RussiaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1328
+        width: 424
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac57eae5df8cd0d0800000000000000
+      internalID: -3396681870012359508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DenmarkFLAG
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1641
+        width: 320
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6385a782aa1dfa30800000000000000
+      internalID: 4250582908670411629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EstoniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1577
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb618fb6b0dfe3c10800000000000000
+      internalID: 2035342307115931327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IrelandFLAG
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1454
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6da1cec1b846e60800000000000000
+      internalID: 7954635798179665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatviaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1478
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996ac8ad00be8e70800000000000000
+      internalID: 9119419868184734097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetherlandsFLAG
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1392
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc017d8f49f0a13b0800000000000000
+      internalID: -5541099259021553459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GermanyFLAG
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1266
+        width: 163
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf4ebed91ad3b00800000000000000
+      internalID: 809981207636147641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BelarusFLAG
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1276
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880929b7f2f43e80800000000000000
+      internalID: -8199661875757512565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LithuaniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1374
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbaed999626b9a0800000000000000
+      internalID: -6217739794317132463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuxembourgFLAG
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1351
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6696d162ff28b70800000000000000
+      internalID: 8899956352804808390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BelgiumFLAG
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1288
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7c4f034cc77430800000000000000
+      internalID: 3780715000592367113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UKFLAG
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1033
+        width: 154
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ec1f4026086590800000000000000
+      internalID: -7680882428644367809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UkraineFLAG
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1031
+        width: 312
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a68cfacac250540800000000000000
+      internalID: 4973430483695725154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SloveniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1109
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91de8e7d39dc5a40800000000000000
+      internalID: 5358396514803569050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolandFLAG
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 889
+        width: 183
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eadd516309363190800000000000000
+      internalID: -7983130602786399514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FranceFLAG
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 632
+        width: 272
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2199372c9b40160800000000000000
+      internalID: 6990916766400058016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitzerlandFLAG
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 852
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d6096082482e40800000000000000
+      internalID: 5631824453312108223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiechtensteinFLAG
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 867
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703066450a5fa7f80800000000000000
+      internalID: -8107898110167612665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AustriaFLAG
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 847
+        width: 144
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f85b05d79ef16f0800000000000000
+      internalID: -711593491666989236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungaryFLAG
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 870
+        width: 121
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbefb246011f8460800000000000000
+      internalID: 7246029044049767412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RomaniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 857
+        width: 184
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e28f78a573f6b0800000000000000
+      internalID: -5263734172911738519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoldovaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 866
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e96a3d74994080800000000000000
+      internalID: -9202661097983057440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CzechRepublicFLAG
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 672
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1639db3e3629c0800000000000000
+      internalID: -3952403196202836157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlovakiaFLAG
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 689
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ec551c6170cef0800000000000000
+      internalID: -89947283518592880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SerbiaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 667
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9dc6a0275b6e650800000000000000
+      internalID: 6261891833311058336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulgariaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 687
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363af2b507d201e0800000000000000
+      internalID: -2232986045744794054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KosovoFLAG
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 550
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc157364e53990d0800000000000000
+      internalID: -3415639587346375436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthMacedoniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 559
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287908b3dbb60720800000000000000
+      internalID: 2812141535339575334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndorraFLAG
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 520
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c475cb7d9305870800000000000000
+      internalID: 8669492881428794370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItalyFLAG
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 271
+        width: 254
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321473ad24a74f660800000000000000
+      internalID: 7418688913733533987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CroatiaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 453
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02638d266fb059a0800000000000000
+      internalID: -6246282237591723506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BosniaAndHerzegovinaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 482
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db514001fa6f3790800000000000000
+      internalID: -7548196867125716013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MontenegroFLAG
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 494
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67541efd38a47eba0800000000000000
+      internalID: -6059792843346459274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbaniaFLAG
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 476
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc53c0d0223b8f0800000000000000
+      internalID: -526039292037444688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpainFLAG
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 262
+        width: 276
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ce5ab030c7df80800000000000000
+      internalID: -8081779690775328843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortugalFLAG
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 269
+        width: 85
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5807387dd0a29190800000000000000
+      internalID: -7957120718545156002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreeceFLAG
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 167
+        width: 203
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153bb168801faa50800000000000000
+      internalID: 6534459762279134489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurkeyFLAG
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 215
+        width: 239
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297a215677ebe690800000000000000
+      internalID: -7571703853139461844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyprusFLAG
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 235
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94f45a074cb16a0800000000000000
+      internalID: -6477367650953508364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaltaFLAG
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 199
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1d45712796c9a0800000000000000
+      internalID: -6213112465953317922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaticanCityFLAG
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 202
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff04063f3b8545a0800000000000000
+      internalID: -6537666180452970500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanMarinoFLAG
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 199
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa4185b62532140800000000000000
+      internalID: 4693685857642916518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: a97c0a8159ac5194ca7afcda8c988a27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5492386118364013565
+    second: Morocco
+  - first:
+      213: -8658451357882106601
+    second: Mauritania
+  - first:
+      213: -2682186744387286853
+    second: Algeria
+  - first:
+      213: 2870162843964574730
+    second: Tunisia
+  - first:
+      213: 6609671359339583087
+    second: Libya
+  - first:
+      213: 3074344374508101437
+    second: Egypt
+  - first:
+      213: -8098208835476061300
+    second: Eritrea
+  - first:
+      213: -2923273735923665203
+    second: Western Sahara
+  - first:
+      213: -146786555250982892
+    second: Chad
+  - first:
+      213: -1768017458174010819
+    second: Djibouti
+  - first:
+      213: -4236821116079272744
+    second: Senegal
+  - first:
+      213: -3845139951908891778
+    second: Mali
+  - first:
+      213: -9101706031519523944
+    second: Uganda
+  - first:
+      213: -8524075687092011704
+    second: Sudan
+  - first:
+      213: 1595501485980792311
+    second: Ethiopia
+  - first:
+      213: 4556142425799741716
+    second: Niger
+  - first:
+      213: -2971485864325072874
+    second: Rwanda
+  - first:
+      213: 8735235655272349132
+    second: The Gambia
+  - first:
+      213: -2202632056084631984
+    second: Guinea-Bissau
+  - first:
+      213: -1697955058013926522
+    second: Burundi
+  - first:
+      213: 1749050404573161126
+    second: Guinea
+  - first:
+      213: 5248029664642411483
+    second: Democratic Republic of the Congo
+  - first:
+      213: 5590294261532696759
+    second: Somalia
+  - first:
+      213: -5427772995747714687
+    second: Sierra Leone
+  - first:
+      213: 4544690523118401517
+    second: Liberia
+  - first:
+      213: 782348969307648344
+    second: Cote d'Ivoire
+  - first:
+      213: -7131533942807966714
+    second: Burkina Faso
+  - first:
+      213: 7693834618572659147
+    second: South Sudan
+  - first:
+      213: 8867797770319132256
+    second: Gabon
+  - first:
+      213: 4721328216056858544
+    second: Equatorial Guinea
+  - first:
+      213: 7580259338699255484
+    second: Ghana
+  - first:
+      213: -7902571688127985134
+    second: Togo
+  - first:
+      213: 4434484537490943161
+    second: Benin
+  - first:
+      213: -2168270839912570920
+    second: Nigeria
+  - first:
+      213: -7208741358582403379
+    second: africamap_sprites_34
+  - first:
+      213: 8775856562832955490
+    second: Kenya
+  - first:
+      213: -263239859557987208
+    second: Angola
+  - first:
+      213: -3241626124925051999
+    second: Central African Republic
+  - first:
+      213: -3823011612846051852
+    second: Zambia
+  - first:
+      213: -6645869336146106734
+    second: Republic of the Congo
+  - first:
+      213: 3958405051280276733
+    second: Mozambique
+  - first:
+      213: 8954206017424992729
+    second: Tanzania
+  - first:
+      213: -4294999472226825667
+    second: Madagascar
+  - first:
+      213: 5896734917794478595
+    second: Namibia
+  - first:
+      213: 1396826324028069343
+    second: Cameroon
+  - first:
+      213: 8097746987918334662
+    second: Botswana
+  - first:
+      213: 7689284300552401783
+    second: Zimbabwe
+  - first:
+      213: -4155144124165303570
+    second: Malawi
+  - first:
+      213: -3068138115787804466
+    second: South Africa
+  - first:
+      213: -7254324512174416239
+    second: Eswatini
+  - first:
+      213: 9209352824455396455
+    second: Lesotho
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morocco
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1113
+        width: 178
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a63d44e0c8264ba809178daedd505
+      internalID: 5492386118364013565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mauritania
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1039
+        width: 180
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbb076873ca2d4d9d5446ba156fa34
+      internalID: -8658451357882106601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algeria
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 943
+        width: 305
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4adecb0ed1224984fd6cd90f1d114
+      internalID: -2682186744387286853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunisia
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1129
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e01b961725dc4e8db79e8d04f44cf
+      internalID: 2870162843964574730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libya
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1020
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07afd7380066c0c42972c3afc8a51de7
+      internalID: 6609671359339583087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egypt
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1077
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ad2775f9dde7448e9816cf40e4443
+      internalID: 3074344374508101437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eritrea
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1128
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5f2e6370d4e642811598554600dc4
+      internalID: -8098208835476061300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Western Sahara
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 992
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174773b66ffcaa342b890b93c8214b03
+      internalID: -2923273735923665203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chad
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 805
+        width: 159
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28acc51aa6ca844be78c2af351765a
+      internalID: -146786555250982892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Djibouti
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1049
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f6d3804e4ea754096eb8e98fbf822c
+      internalID: -1768017458174010819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senegal
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 893
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920696b5519d9048887163c5d89b153
+      internalID: -4236821116079272744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mali
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 737
+        width: 249
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3d09a24a828545960f30a32a632dd
+      internalID: -3845139951908891778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uganda
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 917
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8df2671b22c1f4d816e90fe56ec215
+      internalID: -9101706031519523944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sudan
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 739
+        width: 251
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76036b28572f054da7be9398b93ed22
+      internalID: -8524075687092011704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ethiopia
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 819
+        width: 224
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee53131f91e217548b439f8b1baf8271
+      internalID: 1595501485980792311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niger
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 679
+        width: 239
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21871f81fc5f7f4a9ec8d5ca1860c22
+      internalID: 4556142425799741716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rwanda
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 877
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ce7cd0646dbb4aa2d8a151cbce80f
+      internalID: -2971485864325072874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Gambia
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 866
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886071535e53844cb969e74a7296648
+      internalID: 8735235655272349132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guinea-Bissau
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 824
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439feb1e297ecd47926fca69938c62a
+      internalID: -2202632056084631984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burundi
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 830
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc662da1be56c47880f162b873ac5f
+      internalID: -1697955058013926522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guinea
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 720
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ef45ab8de0d84aa677dfeea6047e8
+      internalID: 1749050404573161126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Democratic Republic of the Congo
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 452
+        width: 291
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff33c1b21a8ff49b1858829a597d41
+      internalID: 5248029664642411483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somalia
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 548
+        width: 155
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44764b81cc8e3ce4c959b218d31604b0
+      internalID: 5590294261532696759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sierra Leone
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab70fac4b66cf4c98465df2a8826a5
+      internalID: -5427772995747714687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liberia
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 623
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7115d431e89899489599551c760f991
+      internalID: 4544690523118401517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cote d'Ivoire
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 585
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35b9b1ed894e34caf68b34bf0438dd
+      internalID: 782348969307648344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burkina Faso
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 600
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd4ebd09aab454b8610ee557186fad
+      internalID: -7131533942807966714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: South Sudan
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 539
+        width: 189
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4b230951da4c4885d186cebd70a77
+      internalID: 7693834618572659147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gabon
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 479
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef002959b7a8d0458df9c8846597977
+      internalID: 8867797770319132256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equatorial Guinea
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 501
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b2442bb42952740b22a7fbe8b41778
+      internalID: 4721328216056858544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghana
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 419
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247468c11b075d47af8fdd2e81210c2
+      internalID: 7580259338699255484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togo
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 447
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570d2865ea87824f9959726a623a2d0
+      internalID: -7902571688127985134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Benin
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 425
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f491345703dd44a6810aadf9426fa
+      internalID: 4434484537490943161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nigeria
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 471
+        width: 180
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7be3b471f424b41b459f58da66ba31
+      internalID: -2168270839912570920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenya
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 313
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0aeb39344a92041b7b9f1dff585363
+      internalID: 8775856562832955490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angola
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 229
+        width: 190
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd8ec33cf525646aa82eb4c312b847
+      internalID: -263239859557987208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Central African Republic
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 251
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727acf0738b537141bc86be2ab797bd3
+      internalID: -3241626124925051999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zambia
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 258
+        width: 177
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff9b7b4480d5b48a15bfebad8cabf3
+      internalID: -3823011612846051852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Republic of the Congo
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 246
+        width: 114
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53857ed4e961b7a48b2ac09724463527
+      internalID: -6645869336146106734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mozambique
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 27
+        width: 162
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a544ddbb00a3646b6df599c05d6006
+      internalID: 3958405051280276733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanzania
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 218
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1d6a8390a1e54c8c774b6517a9f73
+      internalID: 8954206017424992729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Madagascar
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 141
+        width: 116
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa05ca71a7c8d84aa726b782aacf304
+      internalID: -4294999472226825667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Namibia
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e1b6a77e120440a4468863c204b50
+      internalID: 5896734917794478595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cameroon
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 115
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da694775c4c842d48b35a1b8f759b5a4
+      internalID: 1396826324028069343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botswana
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 55
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fbb6d5ca40ee4090af187f6ae154d
+      internalID: 8097746987918334662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimbabwe
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 61
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed6bafc4750d1a498775e7091b02524
+      internalID: 7689284300552401783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malawi
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 22
+        width: 52
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf20d4a7c84c4b49b627e3d027d8887
+      internalID: -4155144124165303570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: South Africa
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 15
+        width: 244
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63503c5217a93184e88502e97eb386d7
+      internalID: -3068138115787804466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eswatini
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 86
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281afbc03467ae44fad173aefc540f9b
+      internalID: -7254324512174416239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesotho
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 27
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb3dc391b278648863b3997bcca4d0
+      internalID: 9209352824455396455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

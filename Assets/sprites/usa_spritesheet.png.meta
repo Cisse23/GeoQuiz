@@ -1,0 +1,1526 @@
+fileFormatVersion: 2
+guid: f5d1bf3a05be17e4e9eab19ab7352f1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3726256292798914273
+    second: Montana
+  - first:
+      213: -5939675886065090880
+    second: North Dakota
+  - first:
+      213: -4808045273954945148
+    second: Minnesota
+  - first:
+      213: -3108058390102858750
+    second: New York
+  - first:
+      213: -1127813886639032278
+    second: Maine
+  - first:
+      213: -6211949225224768920
+    second: usa_spritesheet_6
+  - first:
+      213: -6830061325236977881
+    second: Washington
+  - first:
+      213: 209363326783384422
+    second: Idaho
+  - first:
+      213: -447847713182903669
+    second: Wisconsin
+  - first:
+      213: -4589259935276193018
+    second: Iowa
+  - first:
+      213: -6592687233856959893
+    second: Oregon
+  - first:
+      213: -6355941800429212900
+    second: Delaware
+  - first:
+      213: -2193764047380314831
+    second: West Virginia
+  - first:
+      213: 647067816617020457
+    second: Vermont
+  - first:
+      213: -7266301506156592487
+    second: New Hampshire
+  - first:
+      213: 9109726413627561519
+    second: usa_spritesheet_21
+  - first:
+      213: 1700858619127148497
+    second: Wyoming
+  - first:
+      213: -6351572638875958131
+    second: South Dakota
+  - first:
+      213: 1935288810028207861
+    second: Kansas
+  - first:
+      213: -6639774458702763916
+    second: Illinois
+  - first:
+      213: -2507398909927003427
+    second: Indiana
+  - first:
+      213: -1922584847273254301
+    second: Ohio
+  - first:
+      213: 3964410960276054587
+    second: Massachusetts
+  - first:
+      213: -4092165136573971512
+    second: Nevada
+  - first:
+      213: -1535773195858861398
+    second: New Jersey
+  - first:
+      213: 7668159429339784852
+    second: Connecticut
+  - first:
+      213: 8191640469469402530
+    second: Rhode Island
+  - first:
+      213: -776349980719509212
+    second: California
+  - first:
+      213: 2318393857116497788
+    second: usa_spritesheet_34
+  - first:
+      213: 154877849248768603
+    second: Utah
+  - first:
+      213: 7368575599904590017
+    second: Nebraska
+  - first:
+      213: 3951669570002996242
+    second: Missouri
+  - first:
+      213: 8836491718916226921
+    second: Virginia
+  - first:
+      213: -7333670905467540372
+    second: Pennsylvania
+  - first:
+      213: 7504672288308825794
+    second: Tennessee
+  - first:
+      213: 7883373944003123505
+    second: South Carolina
+  - first:
+      213: -5913164800812909814
+    second: North Carolina
+  - first:
+      213: 7941066931261529543
+    second: Maryland
+  - first:
+      213: 4410373722505688104
+    second: usa_spritesheet_45
+  - first:
+      213: 6305504478671332475
+    second: Colorado
+  - first:
+      213: -7801796334000051785
+    second: Arkansas
+  - first:
+      213: -4640785975487378511
+    second: Texas
+  - first:
+      213: -327632645773513873
+    second: Kentucky
+  - first:
+      213: -1238374191163196
+    second: Mississippi
+  - first:
+      213: -4900859110882281187
+    second: Alabama
+  - first:
+      213: -9159252722034413193
+    second: Gerorgia
+  - first:
+      213: 3023629813278005655
+    second: Oklahoma
+  - first:
+      213: -7930360496890134319
+    second: Alaska
+  - first:
+      213: 6216664610730747648
+    second: Arizona
+  - first:
+      213: -7314986541358888638
+    second: New Mexico
+  - first:
+      213: -8528049121437912706
+    second: Louisiana
+  - first:
+      213: 3504470936267171158
+    second: Florida
+  - first:
+      213: -839787312597852951
+    second: usa_spritesheet_67
+  - first:
+      213: 7897330167281419864
+    second: Hawaii
+  - first:
+      213: 2263097036187573750
+    second: usa_spritesheet_70
+  - first:
+      213: -6487681794243187579
+    second: usa_spritesheet_73
+  - first:
+      213: 6761653241759473056
+    second: usa_spritesheet_74
+  - first:
+      213: -9046469004289001737
+    second: Michigan
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Montana
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 882
+        width: 304
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202886553f1713240a75b23c32bad555
+      internalID: 3726256292798914273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North Dakota
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 953
+        width: 197
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658e667bdde6c745a2222d56a5cefba
+      internalID: -5939675886065090880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minnesota
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 862
+        width: 187
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e642cb51d02bd549b9d6636089717f4
+      internalID: -4808045273954945148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New York
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 925
+        width: 173
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a96baf6ad673b4387d876404510102
+      internalID: -3108058390102858750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maine
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 901
+        width: 108
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be6d2d5f78c3c40899e31f21dbdf48
+      internalID: -1127813886639032278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1068
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7648052246b6e54a9a989c3fc5c61ff
+      internalID: -6211949225224768920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Washington
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 922
+        width: 205
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2724b9da0708c498a0ac17f8136582
+      internalID: -6830061325236977881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idaho
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 778
+        width: 178
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d11c10c337aabc438e12cc9621c179d
+      internalID: 209363326783384422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wisconsin
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 813
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a373106175155545bbe969dfd21693d
+      internalID: -447847713182903669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iowa
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 820
+        width: 180
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134098ab843ea5d4bb0c8297bd4ae008
+      internalID: -4589259935276193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oregon
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 706
+        width: 227
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b93c9e019299914ea2b4826422c5d1b
+      internalID: -6592687233856959893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delaware
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 861
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02e40deea88b348833bd8cc246894f
+      internalID: -6355941800429212900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: West Virginia
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 803
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16809c45c4bd65d40a2765abbdfe65e5
+      internalID: -2193764047380314831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vermont
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 818
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657708882da201e42bfac7cf631f886b
+      internalID: 647067816617020457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Hampshire
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 797
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753cad94c0825a4899cecd9953bbf9e
+      internalID: -7266301506156592487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 765
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9197f65b94f1cec45848d417c9c2c54a
+      internalID: 9109726413627561519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wyoming
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 700
+        width: 210
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014198bf0d2a35428e6cbf08b4af668
+      internalID: 1700858619127148497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: South Dakota
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 667
+        width: 210
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f4469ff44a1945bf7f83953c24488
+      internalID: -6351572638875958131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kansas
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 732
+        width: 222
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04000c54dac8bc245b06b70125be618b
+      internalID: 1935288810028207861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illinois
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 574
+        width: 124
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291fb23e9907da14c9108d795a6fc201
+      internalID: -6639774458702763916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indiana
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 646
+        width: 87
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff66cd9ac135674881930e1461bc763
+      internalID: -2507398909927003427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohio
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 705
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591460b3e27c59e45b61b9f51f4a44b9
+      internalID: -1922584847273254301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Massachusetts
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 747
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7b01743652f44bbf5ad41f48f783c
+      internalID: 3964410960276054587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nevada
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 462
+        width: 183
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c265bd2bd76a48857ba011fe58bb2
+      internalID: -4092165136573971512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Jersey
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 663
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044d84382c58c843801183279dbc7ee
+      internalID: -1535773195858861398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connecticut
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 692
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa21b8bf2c178e4ab3052897ef64a42
+      internalID: 7668159429339784852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhode Island
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 718
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f698e31409d5a459eafd6b7fc51948
+      internalID: 8191640469469402530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: California
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 266
+        width: 243
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c012c06e290646bfc63fc84d27c52
+      internalID: -776349980719509212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 552
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee9d0dbb641f24db4b2f6eba5a11fb
+      internalID: 2318393857116497788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 475
+        width: 170
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c10aa79d66ff4fa8be4e9042b96c0
+      internalID: 154877849248768603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nebraska
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 538
+        width: 258
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7a347c41348548987b3008cd5992f
+      internalID: 7368575599904590017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missouri
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 533
+        width: 197
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41afe036bb9ed3489ed66c1f75232a9
+      internalID: 3951669570002996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virginia
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 509
+        width: 229
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb1c1c5cfaeba42b4fd6a39748f8a4
+      internalID: 8836491718916226921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pennsylvania
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 544
+        width: 169
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bcc9bf28cd00c41ac008c3fd5b2e3d
+      internalID: -7333670905467540372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tennessee
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 436
+        width: 258
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04664db9ec404364dbac69a1046df66a
+      internalID: 7504672288308825794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: South Carolina
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 419
+        width: 154
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b81abd16e678246935cb4e2a700d82
+      internalID: 7883373944003123505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North Carolina
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 384
+        width: 271
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9827ee8379844b97d734969674319
+      internalID: -5913164800812909814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryland
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 445
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047df9f07cbfe046b8f3d342c42ba65
+      internalID: 7941066931261529543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 440
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10020ba7695e84faefcc8f808aead5
+      internalID: 4410373722505688104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorado
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 261
+        width: 213
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3ef21ac65c1b459fa8f772484ed6f
+      internalID: 6305504478671332475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arkansas
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 265
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b02510fc3bc64a84865e9cdb4deb7
+      internalID: -7801796334000051785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texas
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 6
+        width: 425
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a95ca55d0e05844cba20bc2c13a24d8
+      internalID: -4640785975487378511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kentucky
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 300
+        width: 206
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e91c024e8ed39c4c876ae361b27e3b1
+      internalID: -327632645773513873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mississippi
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 156
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1cbf619b2b424887bb29529066da6
+      internalID: -1238374191163196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alabama
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 204
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0320657f1bc594bbb7df83b7472604
+      internalID: -4900859110882281187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gerorgia
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 218
+        width: 171
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29055bc4773a7804999be2a22c78992b
+      internalID: -9159252722034413193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oklahoma
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 160
+        width: 259
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ff303ae7a358438dc9069fed1c6ce
+      internalID: 3023629813278005655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alaska
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 264
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b67773ebf404742a3b401f84cc76d7
+      internalID: -7930360496890134319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arizona
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 199
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20fcbe6f4434584395aaac23b29bc9b
+      internalID: 6216664610730747648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Mexico
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 8
+        width: 205
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e213240306e92c4c9b6fb3dae70b727
+      internalID: -7314986541358888638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Louisiana
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 6
+        width: 178
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a8340c75e7304295ee27f0fb8a189
+      internalID: -8528049121437912706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Florida
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1
+        width: 277
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd390b56e6e64146a99f919aa0016d6
+      internalID: 3504470936267171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 9
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639781af10e29824eb9ba8cdf232df08
+      internalID: -839787312597852951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hawaii
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 10
+        width: 207
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c49218fdfab099418c78f435b9ab0f8
+      internalID: 7897330167281419864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 3
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375f37d7542f694fb16f5862155f357
+      internalID: 2263097036187573750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ab3875e6f4cf4a88ffb1ebe8a2227
+      internalID: -6487681794243187579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c65b71df1bb24caaf441f47ad7a9c
+      internalID: 6761653241759473056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Michigan
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 854
+        width: 243
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -109}
+        - {x: -16.5, y: -14}
+        - {x: -16.5, y: 16}
+        - {x: -114.5, y: 47}
+        - {x: -120.5, y: 109}
+        - {x: 113.5, y: 110}
+        - {x: 110.5, y: -106}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad484b8c6f31642a436b44bc2d28c0
+      internalID: -9046469004289001737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

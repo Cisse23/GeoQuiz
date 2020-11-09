@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90670cf7e9ff52840ade3e9003231e40, type: 3}
+  m_Name: Finland
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1119549367943918980, guid: 1f7064704540d634b98bb80393592f62, type: 3}
+  flag: {fileID: 21300000, guid: be1a3571f5524cd4cae10e54a57b8523, type: 3}
+  capital: Helsinki
+  continent: Europe
