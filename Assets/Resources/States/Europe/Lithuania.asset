@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sprite: {fileID: 3780321570028269349, guid: 1f7064704540d634b98bb80393592f62, type: 3}
   flag: {fileID: 21300000, guid: 704fa7a51e5f87c4e85fcadb1ef19348, type: 3}
-  capital: 
+  capital: Vilnius
   continent: Europe

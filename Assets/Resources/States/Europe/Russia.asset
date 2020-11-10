@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sprite: {fileID: 7268614614691635555, guid: 1f7064704540d634b98bb80393592f62, type: 3}
   flag: {fileID: 21300000, guid: 6af19e366b34644419347016c9bf8867, type: 3}
-  capital: 
+  capital: Moscow
   continent: Europe

@@ -28,7 +28,7 @@ TextureImporter:
     second: SanMarinoFLAG
   - first:
       213: 1657972251862256288
-    second: FLAGS_euromap_separated_8
+    second: MonacoFLAG
   - first:
       213: -1002156775847804744
     second: FLAGS_euromap_separated_9
@@ -1258,9 +1258,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 825
-        y: 202
-        width: 3
-        height: 2
+        y: 200
+        width: 4
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1278,9 +1278,9 @@ TextureImporter:
       name: SanMarinoFLAG
       rect:
         serializedVersion: 2
-        x: 870
+        x: 869
         y: 199
-        width: 3
+        width: 5
         height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1291,6 +1291,27 @@ TextureImporter:
       bones: []
       spriteID: 6aaa4185b62532140800000000000000
       internalID: 4693685857642916518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonacoFLAG
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 200
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa44bf8afc420710800000000000000
+      internalID: 1657972251862256288
       vertices: []
       indices: 
       edges: []
